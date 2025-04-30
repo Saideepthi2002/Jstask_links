@@ -1,4 +1,8 @@
 # Jstask_links
+Task1:
+https://github.com/Saideepthi2002/JsTask1_minishpng/blob/main/index.js
+Task2:
+https://github.com/Saideepthi2002/Jstask2_secnum/blob/main/index.js
 
 Task3:
 https://github.com/Saideepthi2002/JsTask3_UserProfileManager/blob/main/index.html
